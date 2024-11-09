@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaKaR0t05
+- 👋 Hi, I’m @Sparsh05
 - 👀 I’m interested in gaining exprerience.
 - 🌱 I’m currently learning Python, Artificial Intelligence and Machine Learning 
 - 💞️ I’m looking to collaborate on AIML projects
