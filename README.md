@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaKaR0t05
 - 👀 I’m interested in gaining exprerience.
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Artificial Intelligence and Machine Learning 
+- 💞️ I’m looking to collaborate on AIML projects
 - 📫 You can reach me via mail sparshaggarwal561@gmail.com
 
 <!---
